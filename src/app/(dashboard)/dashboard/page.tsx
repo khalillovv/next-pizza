@@ -1,3 +1,3 @@
 export default function Dashboard() {
-	return <div>lox</div>
+	return <div>test</div>
 }
